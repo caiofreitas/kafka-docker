@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23888422-5e88-46e0-8a63-2ccf6b39f5aa": {
+      "ProjectGuid": "23888422-5e88-46e0-8a63-2ccf6b39f5aa",
+      "DisplayName": "ConsumoKafka",
+      "ColorIndex": 0
+    },
+    "b4ec2c53-68b4-487d-b52d-c883b65b8741": {
+      "ProjectGuid": "b4ec2c53-68b4-487d-b52d-c883b65b8741",
+      "DisplayName": "ConsumoKafka",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

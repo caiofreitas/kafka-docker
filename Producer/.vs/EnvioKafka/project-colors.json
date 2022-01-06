@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6118c7f-4103-46df-aa7a-4971a77904f3": {
+      "ProjectGuid": "b6118c7f-4103-46df-aa7a-4971a77904f3",
+      "DisplayName": "EnvioKafka",
+      "ColorIndex": 0
+    },
+    "2fb80230-a69f-4ac7-8a6f-5404bd49daeb": {
+      "ProjectGuid": "2fb80230-a69f-4ac7-8a6f-5404bd49daeb",
+      "DisplayName": "EnvioKafka",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
